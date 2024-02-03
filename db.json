@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "jagath",
+      "email": "jagath123@gmail.com",
+      "phone": "151454548",
+      "address": "rathmalana"
+    },
+    {
+      "id": 2,
+      "name": "praveena",
+      "email": "praveena123@gmail.com",
+      "phone": "151454548",
+      "address": "badulla"
+    },
+    {
+      "id": "3",
+      "name": "kasun",
+      "email": "kasun123@gmail.com",
+      "phone": "151454548",
+      "address": "dehivela"
+    },
+    {
+      "id": "4",
+      "name": "jayantha",
+      "email": "jayantha123@gmail.com",
+      "phone": "151454548",
+      "address": "nuwara"
+    },
+    {
+      "id": "5",
+      "name": "vimala",
+      "email": "vimala123@gmail.com",
+      "phone": "151454548",
+      "address": "kegalle"
+    }
+  ]
+}
